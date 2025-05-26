@@ -4,7 +4,8 @@ This repository provides the topics for the Capstone projects for the module Dig
 - Project 1 CLEAR: Evaluating Digital Communication Links under Noise and Optimal Reception
 - Project 2 CLEAN: Communication Link Estimation & Adaptive Noise-reduction
 - Project 3 SHARP: Spectral Handling & Adaptive Rejection of Power
-- Project 4 KALM : Kalman-based Adaptive Linear Modeling
+- Project 4 DEFI: Decision-Feedback Equalizer Implementation
+- Project 5 KALM : Kalman-based Adaptive Linear Modeling
 
 We’ll cover how to fork the [`FS25_MSP_digitalcom`](https://github.com/coustam/FS25_MSP_digitalcom) repository, make changes, and push them back.
 
