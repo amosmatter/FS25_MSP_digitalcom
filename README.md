@@ -6,7 +6,7 @@ This repository provides the topics for the Capstone projects for the module Dig
 - Project 3 SHARP: Spectral Handling & Adaptive Rejection of Power
 - Project 4 KALM : Kalman-based Adaptive Linear Modeling
 
-n this guide, we’ll cover how to fork the [`FS25_MSP_digitalcom`](https://github.com/coustam/FS25_MSP_digitalcom) repository, make changes, and push them back via a pull request. Let’s get started!
+We’ll cover how to fork the [`FS25_MSP_digitalcom`](https://github.com/coustam/FS25_MSP_digitalcom) repository, make changes, and push them back.
 
 ---
 
@@ -17,6 +17,7 @@ We recommend using:
 - **[Jupyter Notebook](https://jupyter.org/)** for interactive data analysis, visualization, and running code snippets, especially if the repository involves Python code and data processing.
 
 You can install VSCode and the Python/Jupyter extensions to work seamlessly.
+VSCode Includes a console that you can use 
 
 ---
 
