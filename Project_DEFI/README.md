@@ -43,7 +43,7 @@ In this project, you will simulate a digital link with inter-symbol interference
 | DFE implementation and visualization      | 20     |  
 | BER analysis before and after             | 10     |  
 | Clarity of explanations and code          | 10     |  
-| Final reflection and real-world link      | 10     |  
+| Final presentation                        | 10     |  
 | **Total**                                 | **60** |  
 
 ## Instructions
