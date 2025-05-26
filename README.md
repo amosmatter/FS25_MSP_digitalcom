@@ -27,7 +27,7 @@ VSCode Includes a console that you can use
 2. In the top-right corner, click the `Fork` button.
 3. Choose your GitHub account to create a fork. This will create a copy of the repository in your account.
 
-![Fork the Repository](figure/fig_fork.png)
+![Fork the Repository](figures/fig_fork.png)
 
 ---
 
