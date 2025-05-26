@@ -45,14 +45,15 @@ Replace YOUR_USERNAME with your GitHub username.
 ```bash
  git checkout -b name-experiments
 ```
+---
 ## Step 4: Edit codeand run you experiments, update your powerpoint
+
 ---
 ## Step 5: Stage and Commit Your Changes, and Final Push
 ```bash
- git checkout -b name-experiments
-```
+git checkout -b name-experiments
 git add .
 git commit -m "Update experiments, code, and presentation slides"
 git push origin my-experiments
-
+```
 ---
