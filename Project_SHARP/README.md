@@ -43,7 +43,7 @@ In this project, you will explore how pulse shaping affects the spectrum of digi
 | PSD analysis before and after shaping     | 20     |  
 | RRC filter application and impact         | 10     |  
 | Clarity of explanations and code          | 10     |  
-| Final reflection and real-world link      | 10     |  
+| Final presentation                        | 10     |  
 | **Total**                                 | **60** |  
 
 ## Instructions
