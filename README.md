@@ -3,3 +3,5 @@ This repository provides the topics for the Capstone projects for the module Dig
 
 - Project 1 CLEAR: Evaluating Digital Communication Links under Noise and Optimal Reception
 - Project 2 CLEAN: Communication Link Estimation & Adaptive Noise-reduction
+- Project 3 SHARP: Spectral Handling & Adaptive Rejection of Power
+- 
