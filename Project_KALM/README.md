@@ -22,7 +22,8 @@ In this project, you will simulate a time-varying random signal (e.g., random wa
    - Link to real-world applications (e.g., tracking in wireless or sensor systems).
 
 ## Tools
-- **PySDR** library (https://pysdr.org) for noise generation and analysis.
+- **PySDR** Examples (https://pysdr.org) for noise generation and analysis.
+Examples avaialble at : https://github.com/777arc/PySDR/tree/ba4f470767bbd5b460217ec2f78ade82845c15e8/figure-generating-scripts
 - Custom Python functions (in `/src/utils.py`).
 
 ## Deliverables
@@ -48,4 +49,4 @@ In this project, you will simulate a time-varying random signal (e.g., random wa
 - Use PySDR functions and/or extend the helper functions in `/src/utils.py`.
 - Save your final notebook as `Project4_KALM_YourName.ipynb`.
 
-Enjoy exploring real-time adaptive filtering with the Kalman filter and PySDR!
+Enjoy exploring real-time adaptive filtering with the Kalman filter and examples of PySDR!

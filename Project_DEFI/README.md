@@ -25,7 +25,7 @@ In this project, you will simulate a digital link with inter-symbol interference
    - Discuss how DFE improves reliability in real channels.
 
 ## Tools
-- **PySDR** library (https://pysdr.org) for digital signal visualization and simulation.
+- **PySDR** Examples available (https://pysdr.org) for digital signal visualization and simulation.
 - Custom Python functions (in `/src/utils.py`).
 
 ## Deliverables

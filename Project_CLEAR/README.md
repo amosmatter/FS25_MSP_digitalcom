@@ -27,6 +27,7 @@ In this project, you will analyze how random noise affects digital communication
 
 ## Tools
 - **PySDR** library (https://pysdr.org) for practical, real-world digital communication simulation.
+Examples are avaialble at : https://github.com/777arc/PySDR/tree/ba4f470767bbd5b460217ec2f78ade82845c15e8/figure-generating-scripts
 - Custom Python functions (in `/src/utils.py`).
 
 ## Deliverables
